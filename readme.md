@@ -49,24 +49,4 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 ## Autopilot V2 (NVIDIA Dataset based on real world)
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/v2.gif">
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
 
-
-## 📌 Cite Us
-
-To cite this guide, use the below format:
-```
-@article{autopilot,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/Autopilot},
-month = {01},
-title = {{Autopilot}},
-year = {2018}
-}
-```
-
-## References 🔱
- 
- - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
- - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
- - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
